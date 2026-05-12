@@ -1,6 +1,6 @@
 # Roboto MNC
 
-This is the Roboto font, but without overlapping shapes mentioned [here](https://github.com/googlefonts/robotoslab/issues/23).
+This is the Roboto font, but without overlapping shapes mentioned in googlefonts/robotoslab#23.
 
 The font files were downloaded from: https://fonts.google.com/specimen/Roboto
 
